@@ -1,7 +1,7 @@
 import os
 from pathlib import Path  
 
-project_name = "credit_card_default"
+project_name = "us_visa"
 
 # Creating necessary files and folders 
 list_of_files = [
@@ -49,3 +49,4 @@ for filepath in list_of_files:
             pass
     else:
         print(f"file is already present at: {filepath}")
+        

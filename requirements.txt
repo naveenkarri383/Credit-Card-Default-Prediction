@@ -1,0 +1,27 @@
+# modules and packages that needs to be install for this projects. If required more, needs to add later also.
+# If required, Can also be mention the specific version also.
+ipykernel
+pandas
+numpy
+matplotlibl
+plotly
+seaborn
+scipy
+scikit-learn
+imblearn
+xgboost
+catboost
+pymongo
+from_root
+evidently==0.2.8  #Data div predictions
+dill
+PyYAML
+neuro_mf
+boto3
+mypy-boto3-s3
+botocore
+fastapi
+uvicorn
+jinja2
+python-multipart
+-e . # It reuqired for the "setup.py" file  
